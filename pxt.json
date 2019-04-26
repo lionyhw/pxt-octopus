@@ -1,1 +1,17 @@
-
+{
+    "name": "octopus",
+    "version": "1.0.0",
+    "description": "octopus",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "octopus.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
